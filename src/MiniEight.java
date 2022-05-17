@@ -34,7 +34,6 @@ public class MiniEight {
 
         coinflip = Math.random();
 
-
         System.out.println(coinflip);
         if (coinflip >= 0.5 ) {
             System.out.println("Κορώνα!");
